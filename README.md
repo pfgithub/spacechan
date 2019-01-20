@@ -1,3 +1,5 @@
+Invite Me · [Support Server](https://discord.gg/j7qpZdE) · [Source Code](https://github.com/pfgithub/spacechan) · [Website](https://pfgithub.github.io/spacechan)
+
 # SpaceChan
 A discord bot for spacing #channel-names
 
