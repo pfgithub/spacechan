@@ -1,3 +1,6 @@
+# SpaceChan
+A discord bot for spacing #channel-names
+
 ## usage
 Edit a channel name and SpaceChan will automatically replace the dashes with spaces.
 
