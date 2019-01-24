@@ -59,7 +59,7 @@ client.on("message", async msg => {
 		return await msg.channel.send(language.unknownCommand); // Reply required because it contains the user ID.
 	}
 	
-	if(content.indexOf(client.user.id) > -1) {
+	if(msg.member.hasPermission("MANAGE_CHANNELS") && content.indexOf(client.user.id) > -1) {
 		send(language.spacingChannels, undefined, undefined, msg.channel, msg.author);
 		msg.guild.channels.forEach(channel => {
 			spaceChannel(channel, msg.channel, msg.author);
