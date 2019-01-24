@@ -1,6 +1,8 @@
 **usage**  
 Edit a channel name and SpaceChan will automatically replace the dashes with spaces.
 
+Ping @SpaceChan to convert all dashes to spaces in all channels.
+
 **disabling**  
 To disable for a specific channel, edit that channel's settings and make it so SpaceChan does not have permission to Manage or Send Messages in that channel. [Screenshot](https://i.imgur.com/QTaqd77.png)
 
